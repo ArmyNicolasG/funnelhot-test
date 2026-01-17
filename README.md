@@ -2,23 +2,24 @@
 
 Pasos para clonar e inicializar el proyecto de forma local:
 
-## 1. Clonar el repositorio
+## Correr proyecto de forma local
+ Clonar el repositorio
 ```
 git clone https://github.com/ArmyNicolasG/funnelhot-test
 cd funnelhot-test
 ```
 
-## 2. Instalar dependencias
+2. Instalar dependencias
 ```
 npm i -y
 ```
 
-## 3. Levantar servidor web local
+3. Levantar servidor web local
 ```
 npm run dev
 ```
 
-## Features integradas
+# Features integradas
 A continuación, se describen las features que se integran en el proyecto siguiendo el documento de requisitos
 
 ### Página inicial
