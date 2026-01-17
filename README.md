@@ -13,7 +13,7 @@ cd funnelhot-test
 npm i -y
 ```
 
-## 3. Levantar servicio web local
+## 3. Levantar servidor web local
 ```
 npm run dev
 ```
