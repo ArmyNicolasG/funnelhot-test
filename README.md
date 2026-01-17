@@ -4,7 +4,7 @@ Pasos para clonar e inicializar el proyecto de forma local:
 
 ## 1. Clonar el repositorio
 ```
-git clone https://ArmyNicolasG/funnelhot-test
+git clone https://github.com/ArmyNicolasG/funnelhot-test
 cd funnelhot-test
 ```
 
