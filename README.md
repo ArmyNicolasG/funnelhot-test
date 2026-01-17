@@ -17,7 +17,7 @@ npm i -y
 npm run dev
 ```
 
-# Prioridades
+# Prioridades y detalles de realización
 En este proyecto se priorizó el mantener la modularidad, patrones de arquitectura sólidos y principios de patrones de diseño como SOLID, con el fin de asegurar escalabilidad a futuro y orden en el código. Adicionalmente, se busca una interfaz bonita y amigable con el usuario.
 Otro factor que se tuvo como prioridad en el proyecto fue la integridad de los datos existentes y la "base de datos" en memoria, de modo que, cuando el usuario intentase ingresar valores no válidos, esto se complementaba con alertas e indicaciones que hacían que no se presentaran bugs o roturas. Y cuando se guardase la información esta quedase asociada y coherente, como por ejemplo, al editar reglas de asistentes y volver a consultarlos, o el volver a mostrar los mensajes y su historial.
 El tiempo dedicado al mismo fue de aproximadamente 6 horas.
