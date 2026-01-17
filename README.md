@@ -1,4 +1,4 @@
-# Prueba técnica Funnelhot
+# Prueba técnica Funnelhot - Nicolás Galeano
 
 Pasos para clonar e inicializar el proyecto de forma local:
 
